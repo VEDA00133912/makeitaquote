@@ -1,0 +1,14 @@
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# ビルド系
+build/
+dist/
+*.egg-info/
+
+# PyPI関連
+.pypirc
+
+# VSCode
+.vscode/

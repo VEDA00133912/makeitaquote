@@ -8,7 +8,7 @@ setup(
     name="makeitaquote",
     version= makeitaquote.__version__,
     author="Ryo001339",
-    description="A Python library for generating Make it a qote images",
+    description="DiscordBOT用のmake it a quote生成パッケージです",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/veda00133912/makeitaquote",
